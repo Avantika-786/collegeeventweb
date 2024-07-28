@@ -21,11 +21,8 @@ Back-end :
     Bcrypt.js - For hashing passwords
     Dotenv - To load environment variables from a .env file
 </pre>
-Deployed Website Link : https://college-events.onrender.com<br>
-Video link explaining my project : https://vimeo.com/869995229/7b2093bdbb?share=copy
 
-![Screenshot (1475)](https://user-images.githubusercontent.com/86339914/215329572-fdc293c4-8fd3-451c-aba6-a54f70723e80.png)
-![Screenshot (1466)](https://user-images.githubusercontent.com/86339914/215329580-2e552077-c83d-46fd-aa3d-6c0d830c2cbe.png)
-![pd1 (2)](https://user-images.githubusercontent.com/86339914/215330305-b2df1da0-f946-4d0b-b64a-14dfe463437e.png)
-![pd2 (2)](https://user-images.githubusercontent.com/86339914/215330316-75438ba2-6262-4102-8b24-b2c5c2a121fe.png)
-![Screenshot (1472)](https://user-images.githubusercontent.com/86339914/215329645-1d811402-40e8-48f8-9fc2-ac1ca68d1e42.png)
+![Screenshot (377)](https://github.com/user-attachments/assets/f31b6ad5-f88c-405d-a5e1-b583ee5c1925)
+![Screenshot (378)](https://github.com/user-attachments/assets/81441c7c-42cf-4627-9a1a-885807b4ecea)
+![Screenshot (379)](https://github.com/user-attachments/assets/835c04e6-44a7-4b16-8529-c3a67a1303e7)
+![Screenshot (380)](https://github.com/user-attachments/assets/2d2a8e42-f03b-41e7-9cdd-1d0946793393)
